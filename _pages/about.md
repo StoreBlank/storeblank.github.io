@@ -19,6 +19,8 @@ Miscellaneous
 ======
 In my spare time, I like playing soccer, watching anime, and playing video games with wonderful music and immersive stories. I am also an amateur game developer using Unity and RPG Maker. Coding awesome and structured projects gracefully can make me feel very good.
 
+[A little game](https://storeblank.github.io/A-little-game/){: .btn}
+
 Randomly generated ideas
 ======
 1. It is well known that compared to simple creatures, we humans have both cerebellum and cerebrum, which give us extraordinary movement abilities. Does this phenomenon of humans result from that humans have a sufficiently good structure, so embodied agents can also achieve it by good enough inductive bias, or just result from that humans have collected countless years of data, so scale is all you need for AGI?
