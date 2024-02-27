@@ -26,6 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "undergraduate student @ THU"
   # location         : "Earth"
+  institute: "Yao Class, IIIS"
+  institute_url: https://iiis.tsinghua.edu.cn/en/yaoclass/
   # employer         : "Red Brick University"
   uri              : # URL
   email            : "liuzixia21@mails.tsinghua.edu.cn" 
@@ -70,7 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : https://www.zhihu.com/people/lzx02171
 
 
 # Site Settings
