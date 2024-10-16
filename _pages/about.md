@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student in [Yao Class, IIIS](https://iiis.tsinghua.edu.cn/en/yaoclass/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Huazhe Xu](http://hxu.rocks/). Now, I am also a research intern at [UIUC](https://illinois.edu/), advised by [Prof. Yunzhu Li](https://yunzhuli.github.io/).
+I am currently an undergraduate student in [Yao Class, IIIS](https://iiis.tsinghua.edu.cn/en/yaoclass/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am fortunate to work with [Prof. Huazhe Xu](http://hxu.rocks/) at Tsinghua University and [Prof. Yunzhu Li](https://yunzhuli.github.io/) at UIUC.
 
 Research interest
 ======
@@ -23,8 +23,8 @@ In my spare time, I like playing soccer, watching anime, and playing video games
 
 Maybe due to a little obsessive-compulsive personality disorder, coding awesome and structured projects gracefully can make me feel excellent.
 
-Randomly generated ideas
+<!-- Randomly generated ideas
 ======
 1. It is well known that compared to simple creatures, we humans have both cerebellum and cerebrum, which give us extraordinary movement abilities. Does this phenomenon of humans result from that humans have a sufficiently good structure, so agents can also achieve it by good enough inductive bias, or just result from that humans have collected countless years of data, so scale is all you need for AGI?
 2. Maybe we could combine souls-like game with audio game, to give people a better boss experience?
-3. If we could define intelligence concretely, could humans theoretically create agents smarter than themselves?
+3. If we could define intelligence concretely, could humans theoretically create agents smarter than themselves? -->
