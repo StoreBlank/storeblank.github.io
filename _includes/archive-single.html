@@ -42,7 +42,9 @@
         <i>{{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}</i>
       </p>
       <p class="archive__item-paperinfo">
-        <!-- {{ post.venue }} -->
+        {% if post.venue %}
+          {{ post.venue }}
+        {% endif %}
         {% if post.pdfurl %}
           <a href="{{ post.pdfurl }}">[PDF]</a>
         {% endif %}
