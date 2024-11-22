@@ -43,7 +43,7 @@
       </p>
       <p class="archive__item-paperinfo">
         {% if post.venue %}
-          {{ post.venue }}
+          <i>{{ post.venue | safe }}</i>
         {% endif %}
         {% if post.pdfurl %}
           <a href="{{ post.pdfurl }}">[PDF]</a>
