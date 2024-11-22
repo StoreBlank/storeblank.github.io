@@ -43,7 +43,7 @@
       </p>
       <p class="archive__item-paperinfo">
         {% if post.venue %}
-          {{ post.venue | markdownify | remove: '<p>' | remove: '</p>' }}
+          {{ post.venue }}
         {% endif %}
         {% if post.pdfurl %}
           <a href="{{ post.pdfurl }}">[PDF]</a>
