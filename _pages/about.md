@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student in [Yao Class, IIIS](https://iiis.tsinghua.edu.cn/en/yaoclass/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am fortunate to work with [Prof. Huazhe Xu](http://hxu.rocks/) at Tsinghua University and [Prof. Yunzhu Li](https://yunzhuli.github.io/) at UIUC.
+I am currently an undergraduate student in [Yao Class, IIIS](https://iiis.tsinghua.edu.cn/en/yaoclass/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm) and [Prof. Huazhe Xu](http://hxu.rocks/). Previously, I was fortunate to work with [Prof. Yunzhu Li](https://yunzhuli.github.io/) at UIUC.
 
 Research interest
 ======
-I am broadly interested in research on deep learning, reinforcement learning, and computer graphics.
+I am broadly interested in research on computer vision, robotics, and computer graphics.
 
 I hope these technologies can create a digital wonderland, in that place we can live a life that can't happen in the real world.
 
