@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student in [Yao Class, IIIS](https://iiis.tsinghua.edu.cn/en/yaoclass/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm) and [Prof. Huazhe Xu](http://hxu.rocks/). Previously, I was fortunate to work with [Prof. Yunzhu Li](https://yunzhuli.github.io/) at UIUC.
+I am currently an undergraduate student in [Yao Class, IIIS](https://iiis.tsinghua.edu.cn/en/yaoclass/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). Previously, I was fortunate to work with [Prof. Yunzhu Li](https://yunzhuli.github.io/) at UIUC and [Prof. Huazhe Xu](http://hxu.rocks/) at Tsinghua University.
 
 Research interest
 ======
@@ -22,6 +22,8 @@ In my spare time, I like playing soccer, watching anime, and playing video games
 [A little game](https://storeblank.github.io/A-little-game/){: .btn}
 
 Maybe due to a little obsessive-compulsive personality disorder, coding awesome and structured projects gracefully can make me feel excellent.
+
+In addition, I like to listen to soundtracks and post-rock. I am a fan of Hiroyuki Sawano.
 
 <!-- Randomly generated ideas
 ======
