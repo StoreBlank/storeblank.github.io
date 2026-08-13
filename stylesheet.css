@@ -110,6 +110,85 @@ h2 {
   font-size: 32px;
 }
 
+.rpg-entry-wrap {
+  padding: 4px 16px 20px;
+}
+
+.rpg-entry {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  overflow: hidden;
+  padding: 16px 20px;
+  color: #17233c;
+  border: 2px solid #d99321;
+  border-radius: 10px;
+  background-color: #fff4c7;
+  background-image:
+    linear-gradient(135deg, rgba(255, 255, 255, .55) 25%, transparent 25%),
+    linear-gradient(315deg, rgba(217, 147, 33, .12) 25%, transparent 25%);
+  background-size: 24px 24px;
+  box-shadow: 4px 4px 0 #d99321;
+  transition: transform .18s ease, box-shadow .18s ease, color .18s ease;
+}
+
+.rpg-entry:hover,
+.rpg-entry:focus {
+  color: #17233c;
+  transform: translate(-2px, -2px);
+  box-shadow: 7px 7px 0 #d99321;
+}
+
+.rpg-entry:focus-visible {
+  outline: 3px solid #1772d0;
+  outline-offset: 4px;
+}
+
+.rpg-entry-label {
+  flex: 0 0 auto;
+  padding: 5px 8px;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background: #17233c;
+}
+
+.rpg-entry-title {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.rpg-entry-arrow {
+  margin-left: auto;
+  font-size: 24px;
+  font-weight: 700;
+  transition: transform .18s ease;
+}
+
+.rpg-entry:hover .rpg-entry-arrow,
+.rpg-entry:focus .rpg-entry-arrow {
+  transform: translateX(4px);
+}
+
+@media (max-width: 520px) {
+  .rpg-entry {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 8px;
+    padding: 14px 16px;
+  }
+
+  .rpg-entry-arrow {
+    position: absolute;
+    right: 16px;
+    bottom: 11px;
+  }
+}
+
 .one {
   width: 160px;
   height: 160px;
